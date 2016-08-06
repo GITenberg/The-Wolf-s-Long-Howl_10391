@@ -1,0 +1,32 @@
+_repo: The-Wolf-s-Long-Howl_10391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The wolf's long howl -- An ulm -- The hair of the dog that bit him
+  -- The man who fell in love -- A tragedy of the forest -- The Parasangs -- Love
+  and a triangle -- An Easter admission -- Professor Morgan's moon -- Red Dog's show
+  window -- Markham's experience -- The red revenger -- A murderer's accomplice --
+  A mid-Pacific fourth -- Love and a latch-key -- Christmas 200,000 B.C. -- The child
+  -- The baby and the bear -- At the Green Tree Club -- The rain-maker -- Within one
+  life's span.
+title: The Wolf's Long Howl
+url: http://www.gutenberg.org/ebooks/10391
